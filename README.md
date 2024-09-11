@@ -46,8 +46,14 @@ cmake --build app
 
 ### 4. **Run the Demo**
 
+- on Unix systems
+On Mac/Linux systems
 ```bash
 ./app/OrbitingPlanetsDemo
+```
+On Windows
+```
+.\app\Debug\OrbitingPlanetsDemo.exe
 ```
 
 ---

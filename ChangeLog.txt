@@ -1,0 +1,11 @@
+# ChangeLog.txt
+
+# Version 1.0.1 - 2024-09-09
+- Fixed bug with SFML DLL copying on Windows
+- Added logic to copy the entire Debug directory post-build
+- Improved path handling for SFML library detection
+
+# Version 1.0.0 - 2024-09-01
+- Initial release of OrbitingPlanetsDemo
+- Added SFML integration for graphics and window handling
+- Basic orbiting planets simulation

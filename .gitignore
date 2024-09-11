@@ -33,3 +33,7 @@
 
 # Mac logs
 .DS_Store
+
+# Build binaries and deps
+build/
+app/
